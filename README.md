@@ -22,17 +22,13 @@ A design system is a collection of documentation on principles and best practice
 Professional plugins, extensions and scripts to improve your design workflow.
 ``
 
-[Plugin Directory] (https://github.com/sketchplugins/plugin-directory)<br>
+[Plugin Directory](https://github.com/sketchplugins/plugin-directory)<br>
 https://github.com/turbobabr/Sketch-Plugins-Cookbook<br>
 https://github.com/lucienlee/alignto<br>
 https://github.com/richardgazdik/sketch-align<br>
 https://github.com/psilfver/sketch-adjust-button-shape<br>
 https://github.com/DWilliames/paddy-sketch-plugin<br>
 https://github.com/lewishowles/sketch-bound-with-box
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
