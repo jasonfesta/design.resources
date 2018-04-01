@@ -1,20 +1,20 @@
-# Resources
+# Design Resources
 
-One Paragraph of project description goes here
+A collection of design engineering resources.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will help you find design engineering resources.
 
 ### Design Systems
 
-What things you need to install the software and how to install them
-
+```
+A design system is a collection of documentation on principles and best practices, that helps guide a team to build digital products. They are often embodied in UI libraries and pattern libraries, but can extend to include guides on other areas such as 'Voice and Tone'.
 ```
 https://ant.design<br>
 https://atlassian.design<br>
 http://plasma.guide<br><br>
-```
+
 
 ### Plugins
 
