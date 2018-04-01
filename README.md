@@ -12,8 +12,8 @@ A design system is a collection of documentation on principles and best practice
 ``
 
 [Ant.Design](https://ant.design)<br>
-[Atlassian] (https://atlassian.design) <br>
-[WeWork] (http://plasma.guide) <br>
+[Atlassian](https://atlassian.design)<br>
+[WeWork](http://plasma.guide)<br>
 
 
 ### Plugins
