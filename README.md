@@ -11,9 +11,9 @@ A collection of design engineering resources.
 A design system is a collection of documentation on principles and best practices, that helps guide a team to build digital products. They are often embodied in UI libraries and pattern libraries, but can extend to include guides on other areas such as 'Voice and Tone'.
 ``
 
-*[Ant.Design](https://ant.design)<br>
-https://atlassian.design<br>
-http://plasma.guide<br><br>
+[Ant.Design](https://ant.design)<br>
+[Atlassian] (https://atlassian.design) <br>
+[WeWork] (http://plasma.guide) <br>
 
 
 ### Plugins
