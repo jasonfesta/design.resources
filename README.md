@@ -1,4 +1,4 @@
-## Design Resources
+# Design Resources
 
 ``
 A collection of design engineering resources.
