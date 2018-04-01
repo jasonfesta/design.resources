@@ -5,7 +5,7 @@ A collection of design engineering resources.
 ``
 
 
-### Design Systems
+### systems
 
 ``
 A design system is a collection of documentation on principles and best practices, that helps guide a team to build digital products. They are often embodied in UI libraries and pattern libraries, but can extend to include guides on other areas such as 'Voice and Tone'.
@@ -16,7 +16,7 @@ A design system is a collection of documentation on principles and best practice
 [WeWork](http://plasma.guide)<br>
 
 
-### Plugins
+### plugins
 
 ``
 Professional plugins, extensions and scripts to improve your design workflow.
@@ -30,26 +30,18 @@ https://github.com/psilfver/sketch-adjust-button-shape<br>
 https://github.com/DWilliames/paddy-sketch-plugin<br>
 https://github.com/lewishowles/sketch-bound-with-box
 
-## Contributing
+## contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
+## authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Jason Festa** - *Initial work* - [JasonFesta](https://github.com/jasonfesta)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
