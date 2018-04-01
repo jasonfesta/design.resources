@@ -19,10 +19,10 @@ A design system is a collection of documentation on principles and best practice
 ### Plugins
 
 ``
-A step by step series of examples that tell you have to get a development env running.
+Professional plugins, extensions and scripts to improve your design workflow.
 ``
 
-https://github.com/sketchplugins/plugin-directory<br>
+[Plugin Directory] (https://github.com/sketchplugins/plugin-directory)<br>
 https://github.com/turbobabr/Sketch-Plugins-Cookbook<br>
 https://github.com/lucienlee/alignto<br>
 https://github.com/richardgazdik/sketch-align<br>
