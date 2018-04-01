@@ -14,10 +14,10 @@ A design system is a collection of documentation on principles and best practice
 [Ant.Design](https://ant.design)<br>
 [Atlassian](https://atlassian.design)<br>
 [WeWork](http://plasma.guide)<br>
-IBM Carbon
-IBM Design Language		
-IBM Northstar
-Trello
+IBM Carbon<br>
+IBM Design Language<br>	
+IBM Northstar<br>
+Trello<br>
 
 
 ### plugins
