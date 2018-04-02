@@ -33,16 +33,16 @@ Professional plugins, extensions and scripts to improve your design workflow.
 [Adjust Button Shape](https://github.com/psilfver/sketch-adjust-button-shape)<br>
 [Paddy](https://github.com/DWilliames/paddy-sketch-plugin)<br>
 [Bound Box](https://github.com/lewishowles/sketch-bound-with-box)<br>
-http://sureskumar.com/looper/<br>
-https://www.invisionapp.com/craft<br>
-http://www.sketchconfetti.com/<br>
-https://github.com/MagicSketch/MagicMirror<br>
-https://github.com/eddiesigner/sketch-map-generator<br>
-https://evilmartians.com/chronicles/compo-sketch
-https://finchalyzer.github.io/slinky/
-https://github.com/matt-curtis/Fluid-for-Sketch
-https://animaapp.github.io/
-https://github.com/JohnCoates/CSSketch
+[Looper](http://sureskumar.com/looper)<br>
+[Craft](https://www.invisionapp.com/craft)<br>
+[Confetti](http://www.sketchconfetti.com)<br>
+[MagicMirror](https://github.com/MagicSketch/MagicMirror)<br>
+[Map Generator](https://github.com/eddiesigner/sketch-map-generator)<br>
+[Comp Sketch](https://evilmartians.com/chronicles/compo-sketch)<br>
+[Slinky](https://finchalyzer.github.io/slinky/)<br>
+[Fluid](https://github.com/matt-curtis/Fluid-for-Sketch)<br>
+[Anima](https://animaapp.github.io)<br>
+[CSSSketch](https://github.com/JohnCoates/CSSketch)
 
 ## license
 
