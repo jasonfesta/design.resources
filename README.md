@@ -60,7 +60,7 @@ Professional plugins, extensions and scripts to improve your design workflow.
 * [CSSSketch](https://github.com/JohnCoates/CSSketch)<br>
 * [Lorem-Ipsum](https://github.com/brandonbeecroft/Lorem-Ipsum-Plugin-for-Sketch)
 
-### React General Resources
+### React Resources
 
 ``
 ReactJS development Tools & Tutorials.
@@ -71,7 +71,7 @@ ReactJS development Tools & Tutorials.
 * [React Community GitHub](https://github.com/reactjs)
 * [React FAQ](https://reactfaq.site/)
 
-### React Community
+### ReactJS Community
 
 * [Reactiflux](http://www.reactiflux.com/)
 * [React Discussion Forum](https://discuss.reactjs.org/)
@@ -82,7 +82,7 @@ ReactJS development Tools & Tutorials.
 * [The React newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe)
 * [React Iran Telegram Group](https://telegram.me/joinchat/D8jLp0D27irx4rjq2j88xw)
 
-### React Online Playground
+### React Online Tools
 
 * [CodeSandbox](https://codesandbox.io)
 * [Online VS Code IDE for React](https://stackblitz.com)
@@ -91,7 +91,7 @@ ReactJS development Tools & Tutorials.
 * [Babel REPL](https://babeljs.io/repl/)
 * [React HTML to JSX Online Compiler](https://facebook.github.io/react/html-jsx.html)
 
-### React General Tutorials
+### ReactJS Tutorials
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React.js Fundamentals (paid)](https://tylermcginnis.com/courses/react-fundamentals)
 * [React Primer](https://github.com/mikechau/react-primer-draft)
