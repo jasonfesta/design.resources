@@ -42,7 +42,8 @@ Professional plugins, extensions and scripts to improve your design workflow.
 [Slinky](https://finchalyzer.github.io/slinky/)<br>
 [Fluid](https://github.com/matt-curtis/Fluid-for-Sketch)<br>
 [Anima](https://animaapp.github.io)<br>
-[CSSSketch](https://github.com/JohnCoates/CSSketch)
+[CSSSketch](https://github.com/JohnCoates/CSSketch)<br>
+[Lorem-Ipsum](https://github.com/brandonbeecroft/Lorem-Ipsum-Plugin-for-Sketch)
 
 ## license
 
