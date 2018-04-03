@@ -70,9 +70,6 @@ ReactJS development Tools & Tutorials.
 * [React GitHub](https://github.com/facebook/react)
 * [React Community GitHub](https://github.com/reactjs)
 * [React FAQ](https://reactfaq.site/)
-
-### ReactJS Community
-
 * [Reactiflux](http://www.reactiflux.com/)
 * [React Discussion Forum](https://discuss.reactjs.org/)
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
@@ -81,17 +78,12 @@ ReactJS development Tools & Tutorials.
 * [Made with React Collection of websites and applications using ReactJS](http://madewithreact.com/)
 * [The React newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe)
 * [React Iran Telegram Group](https://telegram.me/joinchat/D8jLp0D27irx4rjq2j88xw)
-
-### React Online Tools
-
 * [CodeSandbox](https://codesandbox.io)
 * [Online VS Code IDE for React](https://stackblitz.com)
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
 * [React JSFiddle Integration without JSX](https://jsfiddle.net/reactjs/5vjqabv3/)
 * [Babel REPL](https://babeljs.io/repl/)
 * [React HTML to JSX Online Compiler](https://facebook.github.io/react/html-jsx.html)
-
-### ReactJS Tutorials
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React.js Fundamentals (paid)](https://tylermcginnis.com/courses/react-fundamentals)
 * [React Primer](https://github.com/mikechau/react-primer-draft)
