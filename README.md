@@ -18,22 +18,22 @@ A design system is a collection of documentation on principles and best practice
 [IBM Design Language](https://www.ibm.com/design/language/)<br>	
 [IBM Northstar](https://www.ibm.com/standards/web/)<br>
 [Trello](https://design.trello.com/)<br>
-[Shopify Polaris](https://polaris.shopify.com/)
-[Lightning Design System](https://www.lightningdesignsystem.com/)
-[Google Material Design](https://material.io/)
-[Atlassian](https://design.atlassian.com/)
-[Carbon Design System](http://carbondesignsystem.com/)
-[Ubuntu](https://design.ubuntu.com/)
-[Rizzo (Lonely Planet)](https://rizzo.lonelyplanet.com/)
-[iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)
-[Microsoft Design](https://www.microsoft.com/en-us/design)
-[Airbnb (article)](http://airbnb.design/building-a-visual-language/)
-[Clarity Design System](https://vmware.github.io/clarity/)
-[The Harmony Design System](http://harmony.intuit.com/)
-[BBC Gel ](http://www.bbc.co.uk/gel)
-[Mailchimp](https://ux.mailchimp.com/)
-[LonelyPlanet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
-[Audi](http://audi.com/ci)
+[Shopify Polaris](https://polaris.shopify.com/)<br>
+[Lightning Design System](https://www.lightningdesignsystem.com/)<br>
+[Google Material Design](https://material.io/)<br>
+[Atlassian](https://design.atlassian.com/)<br>
+[Carbon Design System](http://carbondesignsystem.com/)<br>
+[Ubuntu](https://design.ubuntu.com/)<br>
+[Rizzo (Lonely Planet)](https://rizzo.lonelyplanet.com/)<br>
+[iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)<br>
+[Microsoft Design](https://www.microsoft.com/en-us/design)<br>
+[Airbnb (article)](http://airbnb.design/building-a-visual-language/)<br>
+[Clarity Design System](https://vmware.github.io/clarity/)<br>
+[The Harmony Design System](http://harmony.intuit.com/)<br>
+[BBC Gel ](http://www.bbc.co.uk/gel)<br>
+[Mailchimp](https://ux.mailchimp.com/)<br>
+[LonelyPlanet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)<br>
+[Audi](http://audi.com/ci)<br>
 
 ### Plugins
 
