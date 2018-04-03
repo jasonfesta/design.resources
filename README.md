@@ -11,29 +11,29 @@ A collection of design engineering resources.
 A design system is a collection of documentation on principles and best practices, that helps guide a team to build digital products. They are often embodied in UI libraries and pattern libraries, but can extend to include guides on other areas such as 'Voice and Tone'.
 ``
 
-[Ant.Design](https://ant.design)<br>
-[Atlassian](https://atlassian.design)<br>
-[WeWork](http://plasma.guide)<br>
-[IBM Carbon](http://carbondesignsystem.com/)<br>
-[IBM Design Language](https://www.ibm.com/design/language/)<br>	
-[IBM Northstar](https://www.ibm.com/standards/web/)<br>
-[Trello](https://design.trello.com/)<br>
-[Shopify Polaris](https://polaris.shopify.com/)<br>
-[Lightning Design System](https://www.lightningdesignsystem.com/)<br>
-[Google Material Design](https://material.io/)<br>
-[Atlassian](https://design.atlassian.com/)<br>
-[Carbon Design System](http://carbondesignsystem.com/)<br>
-[Ubuntu](https://design.ubuntu.com/)<br>
-[Rizzo (Lonely Planet)](https://rizzo.lonelyplanet.com/)<br>
-[iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)<br>
-[Microsoft Design](https://www.microsoft.com/en-us/design)<br>
-[Airbnb (article)](http://airbnb.design/building-a-visual-language/)<br>
-[Clarity Design System](https://vmware.github.io/clarity/)<br>
-[The Harmony Design System](http://harmony.intuit.com/)<br>
-[BBC Gel ](http://www.bbc.co.uk/gel)<br>
-[Mailchimp](https://ux.mailchimp.com/)<br>
-[LonelyPlanet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)<br>
-[Audi](http://audi.com/ci)<br>
+* [Ant.Design](https://ant.design)<br>
+* [Atlassian](https://atlassian.design)<br>
+* [WeWork](http://plasma.guide)<br>
+* [IBM Carbon](http://carbondesignsystem.com/)<br>
+* [IBM Design Language](https://www.ibm.com/design/language/)<br>	
+* [IBM Northstar](https://www.ibm.com/standards/web/)<br>
+* [Trello](https://design.trello.com/)<br>
+* [Shopify Polaris](https://polaris.shopify.com/)<br>
+* [Lightning Design System](https://www.lightningdesignsystem.com/)<br>
+* [Google Material Design](https://material.io/)<br>
+* [Atlassian](https://design.atlassian.com/)<br>
+* [Carbon Design System](http://carbondesignsystem.com/)<br>
+* [Ubuntu](https://design.ubuntu.com/)<br>
+* [Rizzo (Lonely Planet)](https://rizzo.lonelyplanet.com/)<br>
+* [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)<br>
+* [Microsoft Design](https://www.microsoft.com/en-us/design)<br>
+* [Airbnb (article)](http://airbnb.design/building-a-visual-language/)<br>
+* [Clarity Design System](https://vmware.github.io/clarity/)<br>
+* [The Harmony Design System](http://harmony.intuit.com/)<br>
+* [BBC Gel ](http://www.bbc.co.uk/gel)<br>
+* [Mailchimp](https://ux.mailchimp.com/)<br>
+* [LonelyPlanet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)<br>
+* [Audi](http://audi.com/ci)<br>
 
 ### Plugins
 
@@ -41,24 +41,24 @@ A design system is a collection of documentation on principles and best practice
 Professional plugins, extensions and scripts to improve your design workflow.
 ``
 
-[Plugin Directory](https://github.com/sketchplugins/plugin-directory)<br>
-[Plugin Cookbook](https://github.com/turbobabr/Sketch-Plugins-Cookbook)<br>
-[Align To](https://github.com/lucienlee/alignto)<br>
-[Sketch Align](https://github.com/richardgazdik/sketch-align)<br>
-[Adjust Button Shape](https://github.com/psilfver/sketch-adjust-button-shape)<br>
-[Paddy](https://github.com/DWilliames/paddy-sketch-plugin)<br>
-[Bound Box](https://github.com/lewishowles/sketch-bound-with-box)<br>
-[Looper](http://sureskumar.com/looper)<br>
-[Craft](https://www.invisionapp.com/craft)<br>
-[Confetti](http://www.sketchconfetti.com)<br>
-[MagicMirror](https://github.com/MagicSketch/MagicMirror)<br>
-[Map Generator](https://github.com/eddiesigner/sketch-map-generator)<br>
-[Comp Sketch](https://evilmartians.com/chronicles/compo-sketch)<br>
-[Slinky](https://finchalyzer.github.io/slinky/)<br>
-[Fluid](https://github.com/matt-curtis/Fluid-for-Sketch)<br>
-[Anima](https://animaapp.github.io)<br>
-[CSSSketch](https://github.com/JohnCoates/CSSketch)<br>
-[Lorem-Ipsum](https://github.com/brandonbeecroft/Lorem-Ipsum-Plugin-for-Sketch)
+* [Plugin Directory](https://github.com/sketchplugins/plugin-directory)<br>
+* [Plugin Cookbook](https://github.com/turbobabr/Sketch-Plugins-Cookbook)<br>
+* [Align To](https://github.com/lucienlee/alignto)<br>
+* [Sketch Align](https://github.com/richardgazdik/sketch-align)<br>
+* [Adjust Button Shape](https://github.com/psilfver/sketch-adjust-button-shape)<br>
+* [Paddy](https://github.com/DWilliames/paddy-sketch-plugin)<br>
+* [Bound Box](https://github.com/lewishowles/sketch-bound-with-box)<br>
+* [Looper](http://sureskumar.com/looper)<br>
+* [Craft](https://www.invisionapp.com/craft)<br>
+* [Confetti](http://www.sketchconfetti.com)<br>
+* [MagicMirror](https://github.com/MagicSketch/MagicMirror)<br>
+* [Map Generator](https://github.com/eddiesigner/sketch-map-generator)<br>
+* [Comp Sketch](https://evilmartians.com/chronicles/compo-sketch)<br>
+* [Slinky](https://finchalyzer.github.io/slinky/)<br>
+* [Fluid](https://github.com/matt-curtis/Fluid-for-Sketch)<br>
+* [Anima](https://animaapp.github.io)<br>
+* [CSSSketch](https://github.com/JohnCoates/CSSketch)<br>
+* [Lorem-Ipsum](https://github.com/brandonbeecroft/Lorem-Ipsum-Plugin-for-Sketch)
 
 #### React General Resources
 
