@@ -60,7 +60,21 @@ Professional plugins, extensions and scripts to improve your design workflow.
 * [CSSSketch](https://github.com/JohnCoates/CSSketch)<br>
 * [Lorem-Ipsum](https://github.com/brandonbeecroft/Lorem-Ipsum-Plugin-for-Sketch)
 
-### React Resources
+### Applications
+
+``
+Professional applictions to improve your design workflow.
+``
+
+* [Sketch](https://sketchapp.com)<br>
+* [Figma](https://figma.com)<br>
+* [Framer](https://framer.com)<br>
+* [Adobe](https://adobe.com)<br>
+* [Zeplin](https://Zeplin.io)<br>
+* [InVision](https://www.invisionapp.com)<br>
+* [Abstract](https://www.goabstract.com/)<br>
+
+### ReactJS Resources
 
 ``
 ReactJS development Tools & Tutorials.
