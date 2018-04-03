@@ -18,7 +18,22 @@ A design system is a collection of documentation on principles and best practice
 [IBM Design Language](https://www.ibm.com/design/language/)<br>	
 [IBM Northstar](https://www.ibm.com/standards/web/)<br>
 [Trello](https://design.trello.com/)<br>
-
+[Shopify Polaris](https://polaris.shopify.com/)
+[Lightning Design System](https://www.lightningdesignsystem.com/)
+[Google Material Design](https://material.io/)
+[Atlassian](https://design.atlassian.com/)
+[Carbon Design System](http://carbondesignsystem.com/)
+[Ubuntu](https://design.ubuntu.com/)
+[Rizzo (Lonely Planet)](https://rizzo.lonelyplanet.com/)
+[iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)
+[Microsoft Design](https://www.microsoft.com/en-us/design)
+[Airbnb (article)](http://airbnb.design/building-a-visual-language/)
+[Clarity Design System](https://vmware.github.io/clarity/)
+[The Harmony Design System](http://harmony.intuit.com/)
+[BBC Gel ](http://www.bbc.co.uk/gel)
+[Mailchimp](https://ux.mailchimp.com/)
+[LonelyPlanet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
+[Audi](http://audi.com/ci)
 
 ### Plugins
 
